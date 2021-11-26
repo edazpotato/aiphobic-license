@@ -1,2 +1,20 @@
-Anyone is free to use the contents of this Git repository and the compiled forms of it (referred to from here on as "the software") for personal or educational use free of charge and without providing credit to the author(s).
-The software may be used without charge for gain or commerical purposes so long, as it is not being sold as is and is being used as part of another product, and the other conditions laid out below are followed.
+Version: 1.0
+
+Primary Author: Edazpotato
+
+Some definitions of terms used in this license:
+AI: Any kind of program, or algorithm, or system, that is not directly opperated by a human, that can learn and make desicions without requiring input from a human (including but not limited to learning algorimthms, articial inteligence, or machine learning).
+The Software: This repository and any compiled forms of it
+
+Anyone is free to use the contents of The Software for any use use other than, for gain or commcerial purposes or, for the development or training of AI, free of charge and without providing credit to the author(s).
+
+The Software may be used without charge for gain or commerical purposes, so long as it is not being sold as is (without modifivation or improvments applied), and is being used as part of another product (referred to from here on as "The Product"), and the other conditions laid out below are followed.
+The Product must include credit to the to the Primary Author as set out above and also make referrence to any aditional contributors to The Software. The Product must also include either: a hyperlink to the software, or: a clear description of the software and instructions how a copy of it may be obtained.
+The credit's can be placed somewhere in the product where it's not excessively dificult for an end-user to find them.
+Here's and example of crediting:
+====
+This product includes software developed by <Primary author> and other contributors. That software can be found at <Hyperlink to a location where the software can be found>.
+==== End crediting example.
+
+The Software MUST NOT EVER be used in the development of AI, the training of AI, the improvment of AI, the testing of AI, or any other use not specified here of AI.
+The Software MUST NOT EVER be provided to an AI to process or learn from in any way.
